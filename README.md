@@ -1,0 +1,2 @@
+# fruti_vgg_system
+果蔬购物商城管理与推荐系统Python+Django网页界面+协同过滤推荐算法
